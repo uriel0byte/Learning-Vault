@@ -39,6 +39,8 @@ This is the overarching linear plan. I will move items from here into the Backlo
    - Linux basics
    - Networking fundamentals
    - Security fundamentals
+   - Git
+   - Computer Architecture fundamentals
 2. **Phase 2: Operating Systems Deep Dive**
    - Windows Server administration, Active Directory
 3. **Phase 3: Security Operations (The Core Goal)**
