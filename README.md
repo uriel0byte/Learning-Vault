@@ -5,10 +5,10 @@
 
 ---
 
-## 🟢 ACTIVE SPRINT (Portfolio Building phase)
+## 🟢 ACTIVE SPRINT (Do this today)
 *Certifications are on hold for budget. Focus is 100% on free, practical proof of skill.*
 
-- [ ] **Blue Team Practical Labs**
+- [ ] **Blue Team Practical Labs (Transitioning from Theory to Practice)**
   - *Action:* Complete 1 CyberDefenders or TryHackMe SOC challenge per week.
   - *Action:* Write a professional incident report for each and push to the public Cybersecurity-Writeups repo.
 - [WORKING] **Linux Hands-on Proficiency**
@@ -16,8 +16,8 @@
 
 ---
 
-## 🟡 THE BACKLOG (Up Next)
-*Do not touch these until Security+ is done.*
+## 🟡 THE BACKLOG (Do this next)
+*Do not touch these until the Active Sprint is a habit.*
 
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
@@ -27,6 +27,29 @@
   - Codecademy Learn Python Track (On hold to prevent burnout)
 - [ ] **Pass CompTIA Security+** - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
+
+---
+
+<details>
+<summary><b>🗺️ MY MASTER ROADMAP (Click to expand)</b></summary>
+<br>
+This is the overarching linear plan. I will move items from here into the Backlog and Active Sprint as I progress.
+
+1. **Phase 1: Fundamentals (Mostly Complete)**
+   - Linux basics
+   - Networking fundamentals
+   - Security fundamentals
+2. **Phase 2: Operating Systems Deep Dive**
+   - Windows Server administration, Active Directory
+3. **Phase 3: Security Operations (The Core Goal)**
+   - Log Analysis
+   - SIEM, SOAR Operation
+   - Network Traffic Analysis
+4. **Phase 4: Advanced Specialization**
+   - DFIR (Digital Forensics & Incident Response)
+   - Threat Intelligence and Threat Hunting
+   - OSINT
+</details>
 
 ---
 
@@ -40,7 +63,7 @@
 ---
 
 ## 🏆 THE TROPHY ROOM (Completed)
-*Look at this when impostor syndrome hits. I've already done the work.*
+*Proof that I have the foundation to do the hard stuff.*
 
 **Certificates & Courses:**
 - [DONE] Professor Messer CompTIA Network+ & Security+ Videos
