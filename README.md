@@ -13,10 +13,9 @@
   - *Action:* Write a professional incident report for each and push to the public Cybersecurity-Writeups repo.
 - [ ] **Linux Hands-on Proficiency**
   - *Action:* Finish the remaining LabEx Linux labs.
-- [ ] **Git & Version Control Mastery**
-  - *Action:* Complete Learn Git Branching (learngitbranching.js.org) to master `clone`, `add`, `commit`, and `push` so I can actually upload my portfolio projects.
 - [ ] **Security Fundamentals Consolidation**
-  - *Action:* Complete TCM Practical Security Fundamentals. *Rule: No passive watching. Take physical notes and immediately apply concepts.*
+  - *Action:* Complete TCM Practical Security Fundamentals. 
+  - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
 
 ---
 
@@ -78,5 +77,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [DONE] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works
 
 **Projects & Labs:**
+- [DONE] Basic Git & Version Control Mastery (Learn Git Branching)
 - [DONE] OverTheWire Bandit
 - [DONE] Server Performance Stats (Bash Script)
+- [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
