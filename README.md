@@ -74,7 +74,8 @@ This is the overarching linear plan. I will move items from here into the Backlo
 **Certificates & Courses:**
 - [DONE] Professor Messer CompTIA Network+ & Security+ Videos
 - [DONE] Linux Unhatched (Cisco NetAcad), LFS101x (edX)
-- [DONE] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works
+- [DONE] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
+- [DONE] Cybersecurity for General Professional by Huawei & AIS Academy 
 
 **Projects & Labs:**
 - [DONE] Basic Git & Version Control Mastery (Learn Git Branching)
