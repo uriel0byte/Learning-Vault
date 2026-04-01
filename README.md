@@ -11,8 +11,12 @@
 - [ ] **Blue Team Practical Labs (Transitioning from Theory to Practice)**
   - *Action:* Complete 1 CyberDefenders or TryHackMe SOC challenge per week.
   - *Action:* Write a professional incident report for each and push to the public Cybersecurity-Writeups repo.
-- [WORKING] **Linux Hands-on Proficiency**
+- [ ] **Linux Hands-on Proficiency**
   - *Action:* Finish the remaining LabEx Linux labs.
+- [ ] **Git & Version Control Mastery**
+  - *Action:* Complete Learn Git Branching (learngitbranching.js.org) to master `clone`, `add`, `commit`, and `push` so I can actually upload my portfolio projects.
+- [ ] **Security Fundamentals Consolidation**
+  - *Action:* Complete TCM Practical Security Fundamentals. *Rule: No passive watching. Take physical notes and immediately apply concepts.*
 
 ---
 
@@ -25,7 +29,8 @@
   - Practical packet analysis with Wireshark/Suricata
 - [PAUSED] **Python Scripting**
   - Codecademy Learn Python Track (On hold to prevent burnout)
-- [ ] **Pass CompTIA Security+** - *Resources:* Reviewing Professor Messer SY0-701 notes
+- [ ] **Pass CompTIA Security+**
+  - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
 
 ---
