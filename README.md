@@ -1,6 +1,7 @@
 # 🛡️ Mission Control: My Cyber Learning Journey
 
 **The Goal:** Secure a Blue Team / SOC Analyst role. 
+
 **The Edge:** Organizing chaos into actionable intelligence (DFIR, Threat Intel, OSINT).
 
 ---
