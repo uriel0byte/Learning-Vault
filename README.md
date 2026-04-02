@@ -78,7 +78,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [DONE] Cybersecurity for General Professional by Huawei & AIS Academy 
 
 **Projects & Labs:**
-- [DONE] Basic Git & Version Control Mastery (Learn Git Branching)
+- [DONE] Basic Git & Version Control Mastery (Learn Git Branching Basics)
 - [DONE] OverTheWire Bandit
 - [DONE] Server Performance Stats (Bash Script)
 - [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
