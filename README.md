@@ -62,9 +62,10 @@ This is the overarching linear plan. I will move items from here into the Backlo
 ## 📚 BOOKMARKS & RESOURCES
 *Quick links to platforms I actually use.*
 
-- **Labs:** [Hack The Box] | [TryHackMe] | [LabEx] | [PicoCTF] | [CyberDefenders]
-- **Roadmaps:** [Roadmap.sh Profile] | [90DaysOfCyberSecurity]
+- **Labs:** [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) | [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | 
+- **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
 - **AI Tools:** NotebookLM (Summaries), Gemini (CTF Help), Perplexity (Review)
+- **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
 
 ---
 
