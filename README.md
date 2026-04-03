@@ -65,7 +65,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 
 - **Labs:** [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) | [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [LetsDefend]
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
-- **AI Tools:** NotebookLM (Summaries), Gemini (CTF Help), Perplexity (Review)
+- **AI Tools:** NotebookLM (Summaries adn Quizes), Gemini (CTF Help), Perplexity (Review)
 - **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
 - **Notes & Consolidation:** LogSeq (My internal notes) | TCM Security Academy (Free courses like Fundamental Security, Help desk etc.)
 
