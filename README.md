@@ -67,6 +67,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
 - **AI Tools:** NotebookLM (Summaries), Gemini (CTF Help), Perplexity (Review)
 - **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
+- **Notes & Consolidation:** LogSeq (My internal notes) | TCM Security Academy (Free courses like Fundamental Security, Help desk etc.)
 
 ---
 
