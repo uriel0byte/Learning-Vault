@@ -83,5 +83,8 @@ This is the overarching linear plan. I will move items from here into the Backlo
 **Projects & Labs:**
 - [DONE] Basic Git & Version Control Mastery (Learn Git Branching Basics)
 - [DONE] OverTheWire Bandit
+- [DONE] Windows11 Migation Project + Report
 - [DONE] Server Performance Stats (Bash Script)
 - [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
+- [DONE] Dummy Systemd Service
+- [DONE] Home Wifi Security Audit and Hardening Project + Report
