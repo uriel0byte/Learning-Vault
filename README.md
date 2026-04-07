@@ -84,6 +84,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [DONE] Basic Git & Version Control Mastery (Learn Git Branching Basics)
 - [DONE] OverTheWire Bandit
 - [DONE] Windows11 Migation Project + Report
+- [DOEN] Advent of Cyber 2025 TryHackMe + Report
 - [DONE] Server Performance Stats (Bash Script)
 - [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
 - [DONE] Dummy Systemd Service
