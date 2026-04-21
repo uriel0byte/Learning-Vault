@@ -89,3 +89,4 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
 - [DONE] Dummy Systemd Service
 - [DONE] Home Wifi Security Audit and Hardening Project + Report
+- [DONE] Windows 11 Filesystem & Boot Configuration Recovery + Report
