@@ -19,6 +19,28 @@
   - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
 
 ---
+     
+## 🕒 INTERNSHIP BATTLE RHYTHM (Active Schedule)
+*Schedule optimized for 8:30 - 16:30 work hours. Time-boxed to prevent burnout.*
+
+### 📅 The Weekday Rotation (18:00 - 20:00)
+*Execution: Two 45-minute blocks with a 15-minute break.*
+
+- **Monday & Wednesday: Network+ & Linux**
+  - **Block 1 (45m):** Network+ High-Speed Active Recall (Physical Notes)
+  - **Block 2 (45m):** LabEx Linux Labs (Terminal hands-on)
+- **Tuesday & Thursday: Network+ & Security Fundamentals**
+  - **Block 1 (45m):** Network+ High-Speed Active Recall (Physical Notes)
+  - **Block 2 (45m):** TCM Practical Security Fundamentals (Immediate Lab Application)
+- **Friday: Flex Day**
+  - Catch up on leftover notes, organize GitHub, or take a mandated rest day to decompress.
+
+### 🎯 The Weekend Game Day
+- **Saturday or Sunday (2-3 Hours):**
+  - Execute 1 TryHackMe or CyberDefenders SOC Challenge.
+  - Draft a professional Incident Report and push it to the GitHub write-ups repository.
+
+---
 
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
