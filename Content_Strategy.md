@@ -53,6 +53,11 @@ To build a high-impact personal brand that demonstrates hands-on technical profi
     * Slide 2-3: The problem and the tool.
     * Slide 4: The technical execution (screenshots).
     * Slide 5: Takeaways and CTA.
+ 
+---
+
+## The Hybrid Playbook
+Keep your Content_Strategy.md, GitHub repository, and LinkedIn carousels strictly in English. For YouTube, you can either push yourself to speak English to build global authority immediately, or speak Thai but hardcode high-quality English subtitles alongside English titles and descriptions. This captures the local recruiter market while keeping the global door wide open.
 
 ---
 
