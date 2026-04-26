@@ -60,9 +60,9 @@ To build a high-impact personal brand that demonstrates hands-on technical profi
 Keep your Content_Strategy.md, GitHub repository, and LinkedIn carousels strictly in English. For YouTube, you can either push yourself to speak English to build global authority immediately, or speak Thai but hardcode high-quality English subtitles alongside English titles and descriptions. This captures the local recruiter market while keeping the global door wide open.
 
 ### ⚪ Expanding social media platforms
--Thread
--Twitter/X
--Instagram/TikTok Reel
+* Thread
+* Twitter/X
+* Instagram/TikTok Reel
 
 ---
 
