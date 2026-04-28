@@ -5,7 +5,7 @@ To build a high-impact personal brand that demonstrates hands-on technical profi
 
 ## ⏱️ The Battle Rhythm
 **Cadence:** Bi-weekly (1 post every 2 weeks)
-**Goal:** Maintain consistent output while protecting core study time for certifications (A+, Network+, Security+) and lab training.
+**Goal:** Maintain consistent output while protecting core study time for certifications and lab training.
 
 ### Workflow Breakdown
 * **Week 1: The Capture Phase**
