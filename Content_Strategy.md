@@ -38,6 +38,8 @@ To build a high-impact personal brand that demonstrates hands-on technical profi
 * **Format:** Showcasing how to utilize Windows 11, Ubuntu, and Kali Linux inside VMware for malware analysis or log hunting.
 * **Status:** Backlog ⚪
 
+### Sprint 4: Analysis of a character tied to OSINT techniques.
+
 ---
 
 ## 🛠️ Standard Operating Procedures (SOPs)
