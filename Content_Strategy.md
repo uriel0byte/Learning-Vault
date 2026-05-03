@@ -24,9 +24,9 @@ To build a high-impact personal brand that demonstrates hands-on technical profi
 
 ### Sprint 1: IT Foundations & Incident Triage
 * **Topic:** Walkthrough and review of `servicedesk-simulator.com` (Free Tier).
-* **Format:** 5-10 min YouTube Video + 4-5 slide LinkedIn PDF Carousel.
-* **Status:** In Progress 🟡
-* **Publish Date:** TBD
+* **Format:** 5-10 min YouTube Video + 4-5 slide LinkedIn Post.
+* **Status:** DONE 🟢
+* **Publish Date:** 3-5-2026
 
 ### Sprint 2: The Power of People OSINT (SOCMINT)
 * **Topic:** Mapping digital footprints using Blackbird and Sherlock.
