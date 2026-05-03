@@ -49,8 +49,8 @@
   - HTB / THM Windows Fundamentals modules
 - [ ] **Network Traffic Analysis**
   - Practical packet analysis with Wireshark/Suricata
-- [PAUSED] **Python Scripting**
-  - Codecademy Learn Python Track (On hold to prevent burnout)
+- [ ] **ISC2 CC**
+  - ISC2 Certified in Cybersecurity (CC)
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
