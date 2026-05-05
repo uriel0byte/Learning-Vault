@@ -45,11 +45,12 @@
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
-- [ ] Applied SOC Triage: Execute free "Practice" alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment. Once comfortable, escalate back to CyberDefenders/TryHackMe unguided SOC challenges (Post-Splunk mastery).
+- [ ] **SOC Triage* Execute free
+  - *Practice:* Alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment. Once comfortable, escalate back to CyberDefenders/TryHackMe unguided SOC challenges (Post-Splunk mastery).
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
 - [ ] **Network Traffic Analysis**
-  - Practical packet analysis with Wireshark/Suricata
+  - *Practical:* Packet analysis with Wireshark/Suricata
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
