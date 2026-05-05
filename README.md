@@ -45,8 +45,7 @@
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
-- [ ] **Applied SOC Triage**
-  - Return to CyberDefenders / TryHackMe SOC challenges (Post-Splunk mastery).
+- [ ] Applied SOC Triage: Execute free "Practice" alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment. Once comfortable, escalate back to CyberDefenders/TryHackMe unguided SOC challenges (Post-Splunk mastery).
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
 - [ ] **Network Traffic Analysis**
