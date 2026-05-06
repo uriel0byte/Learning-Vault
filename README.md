@@ -14,7 +14,7 @@
 - [ ] **SIEM & Log Analysis Foundation**
   - *Action:* Complete Splunk Free Fundamental Training to master log ingestion and querying.
 - [ ] **Linux CLI Mastery**
-  - *Action:* Complete the Coursera "IBM - Hands-on Linux Commands and Shell Scripting" course.
+  - *Action:* Complete the "Cisco NetAcad Linux Essentials" course.
 - [ ] **Security Fundamentals Consolidation**
   - *Action:* Complete TCM Practical Security Fundamentals. 
   - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
@@ -27,9 +27,9 @@
 ### 📅 The Weekday Rotation (18:00 - 20:00)
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
-- **Monday & Wednesday: Network+ & IBM Linux**
+- **Monday & Wednesday: Network+ & Linux**
   - **Block 1 (45m):** Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
-  - **Block 2 (45m):** IBM Hands-on Linux Commands and Shell Scripting
+  - **Block 2 (45m):** Cisco NetAcad Linux Essentials
 - **Tuesday & Thursday: ISC2 CC & TCM Security**
   - **Block 1 (45m):** ISC2 CC Study 
   - **Block 2 (45m):** TCM Practical Security Fundamentals (Immediate Lab Application)
@@ -85,7 +85,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 ## 📚 BOOKMARKS & RESOURCES
 *Quick links to platforms I actually use.*
 
-- **Active Training:** [Coursera (IBM Linux)] | [Splunk Free Training] | [LetsDefend] | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
+- **Active Training:** [Coursera ( Linux)] | [Splunk Free Training] | [LetsDefend] | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
 - **Vaulted Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [BlueTeamLab] | [Security Blue Team] | [CrackTheLab]
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
 - **AI Tools:** NotebookLM (Summaries and Quizes) | Gemini (CTF Help) | Perplexity (Review)
