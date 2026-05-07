@@ -86,7 +86,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 ## 📚 BOOKMARKS & RESOURCES
 *Quick links to platforms I actually use.*
 
-- **Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [BlueTeamLab](https://blueteamlabs.online/home/user/82d77b7cbeca1bbfed8b49) | [LetsDefend](https://cyberdefenders.org/p/poseidon.smash) | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
+- **Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [SecurityBlueTeamLab](https://blueteamlabs.online/home/user/82d77b7cbeca1bbfed8b49) | [LetsDefend](https://cyberdefenders.org/p/poseidon.smash) | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
 - **AI Tools:** NotebookLM (Summaries and Quizes) | Gemini & Claude (CTF and Reports help) | Perplexity (Review)
 - **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
