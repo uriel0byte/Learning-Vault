@@ -78,7 +78,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 4. **Phase 4: Advanced Specialization**
    - DFIR (Digital Forensics & Incident Response)
    - Threat Intelligence and Threat Hunting
-   - OSINT
+   - OSINT (Need further study)
 </details>
 
 ---
@@ -86,8 +86,8 @@ This is the overarching linear plan. I will move items from here into the Backlo
 ## 📚 BOOKMARKS & RESOURCES
 *Quick links to platforms I actually use.*
 
-- **Active Training:** [Coursera ( Linux)] | [Splunk Free Training] | [LetsDefend] | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
-- **Vaulted Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [BlueTeamLab] | [Security Blue Team] | [CrackTheLab]
+
+- **Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [BlueTeamLab](https://blueteamlabs.online/home/user/82d77b7cbeca1bbfed8b49) | [LetsDefend](https://cyberdefenders.org/p/poseidon.smash) | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
 - **AI Tools:** NotebookLM (Summaries and Quizes) | Gemini (CTF Help) | Perplexity (Review)
 - **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
@@ -102,7 +102,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [DONE] Professor Messer CompTIA Network+ & Security+ Videos
 - [DONE] Linux Unhatched (Cisco NetAcad), LFS101x (edX)
 - [DONE] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
-- [DONE] Cybersecurity for General Professional by Huawei & AIS Academy 
+- [DONE] Cybersecurity for General Professionals — Huawei & AIS Academy
 
 **Projects & Labs:**
 - [DONE] Basic Git & Version Control Mastery (Learn Git Branching Basics)
