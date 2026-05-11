@@ -11,6 +11,7 @@
 
 - [ ] **Foundation Credentials**
   - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
+  - * Exam Date:* November 30, 2026
 - [ ] **SIEM & Log Analysis Foundation**
   - *Action:* Complete Splunk Free Fundamental Training to master log ingestion and querying.
 - [ ] **Linux CLI Mastery**
