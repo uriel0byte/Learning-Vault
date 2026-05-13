@@ -56,6 +56,8 @@
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
+- [ ] Watch videos from Professor Messer's [CompTIA A+ 220-1202 Playlist](https://www.youtube.com/watch?v=IhcZqUs1IF8&list=PLG49S3nxzAnn7PDGQ17m5AYbDRhnW7vOb)
+  - Purely for the non-technical aspects.
 
 ---
 
