@@ -101,21 +101,22 @@ This is the overarching linear plan. I will move items from here into the Backlo
 *Proof that I have the foundation to do the hard stuff.*
 
 **Certificates & Courses:**
-- [DONE] Professor Messer CompTIA Network+ & Security+ Videos
-- [DONE] Linux Unhatched (Cisco NetAcad)
-- [DONE] Linux Survival
-- [DONE] LinuxFoundationX LFS101x on edX
-- [DONE] Linux Journey Website
-- [DONE] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
-- [DONE] Cybersecurity for General Professionals — Huawei & AIS Academy
+- [x] Professor Messer CompTIA Network+ & Security+ Videos
+- [x] Linux Unhatched (Cisco NetAcad)
+- [x] Linux Survival
+- [x] LinuxFoundationX LFS101x on edX
+- [x] Linux Journey Website
+- [x] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
+- [x] Cybersecurity for General Professionals — Huawei & AIS Academy
 
 **Projects & Labs:**
-- [DONE] Basic Git & Version Control Mastery (Learn Git Branching Basics)
-- [DONE] OverTheWire Bandit
-- [DONE] Windows 11 Migration Project + Report
-- [DONE] Advent of Cyber 2025 TryHackMe + Report
-- [DONE] Server Performance Stats (Bash Script)
-- [DONE] Sanitized People OSINT (SOCMINT) Investigation Report
-- [DONE] Dummy Systemd Service
-- [DONE] Home Wifi Security Audit and Hardening Project + Report
-- [DONE] Windows 11 Filesystem & Boot Configuration Recovery + Report
+- [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
+- [x] OverTheWire Bandit
+- [x] Windows 11 Migration Project + Report
+- [x] Advent of Cyber 2025 TryHackMe + Report
+- [x] Server Performance Stats (Bash Script)
+- [x] Sanitized People OSINT (SOCMINT) Investigation Report
+- [x] Dummy Systemd Service
+- [x] Home Wifi Security Audit and Hardening Project + Report
+- [x] Windows 11 Filesystem & Boot Configuration Recovery + Report
+- [x] GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
