@@ -12,8 +12,8 @@
 - [ ] **Foundation Credentials**
   - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
   - * Exam Date:* November 30, 2026
-- [ ] **SIEM & Log Analysis Foundation**
-  - *Action:* Complete Splunk Free Fundamental Training to master log ingestion and querying.
+- [ ] **Applied Threat Hunting & Detection Theory**
+ - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **Linux CLI Mastery**
   - *Action:* Complete the "Cisco NetAcad Linux Essentials" course.
 - [ ] **Security Fundamentals Consolidation**
@@ -108,6 +108,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] Linux Journey Website
 - [x] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
 - [x] Cybersecurity for General Professionals — Huawei & AIS Academy
+- [x] **SIEM & Log Analysis Foundation**: Complete Splunk Free Fundamental Training to master log ingestion and querying.
 
 **Projects & Labs:**
 - [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
