@@ -11,7 +11,7 @@
 
 - [ ] **Foundation Credentials**
   - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
-  - * Exam Date:* November 30, 2026
+  - *Exam Date:* August, 2026
 - [ ] **Applied Threat Hunting & Detection Theory**
  - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **Linux CLI Mastery**
@@ -29,7 +29,7 @@
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
 - **Monday & Wednesday: Network+ & Linux**
-  - **Block 1 (45m):** Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
+  - **Block 1 (45m):** 
   - **Block 2 (45m):** Cisco NetAcad Linux Essentials
 - **Tuesday & Thursday: ISC2 CC & TCM Security**
   - **Block 1 (45m):** ISC2 CC Study 
@@ -41,17 +41,25 @@
 - **Saturday or Sunday (2-3 Hours):**
   - **SOC Triage**
     - *Practice:* Alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment.
-    - Once comfortable, escalate back to CyberDefenders/TryHackMe unguided SOC challenges (Post-Splunk mastery).
+    - Once comfortable, escalate back to CyberDefenders/TryHackMe/HTB Sherlocks unguided SOC challenges (Post-Splunk mastery).
 
 ---
 
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
+- [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
 - [ ] **Network Traffic Analysis**
   - *Practical:* Packet analysis with Wireshark/Suricata
+- [ ] **CyberWarFareLabs**
+- [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
+- [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
+- [ ] **CyberDefenders:** CCDL1 Certificate
+- [ ] **Microsoft:** 365 & & SOC Path & SC-*** path
+- [ ] **SOCRadar:** Intelligence and OSINT Path
+- [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
@@ -108,6 +116,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
 - [x] Cybersecurity for General Professionals — Huawei & AIS Academy
 - [x] **SIEM & Log Analysis Foundation**: Complete Splunk Free Fundamental Training to master log ingestion and querying.
+- [x] Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
 
 **Projects & Labs:**
 - [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
