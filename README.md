@@ -51,11 +51,12 @@
 - [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
-- [ ] **Network Traffic Analysis**
-  - *Practical:* Packet analysis with Wireshark/Suricata
+- [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
+  - *BTJA:* Include Network Analysis, OSINT, Digigtal Forensics, Dark Web Operations, Threat Hunting, Vulnerability Management.
+  - [ ] **Network Traffic Analysis**
+    - *Practical:* Packet analysis with Wireshark/Suricata
 - [ ] **CyberWarFareLabs**
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
-- [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
 - [ ] **CyberDefenders:** CCDL1 Certificate
 - [ ] **Microsoft:** 365 & & SOC Path & SC-*** path
 - [ ] **SOCRadar:** Intelligence and OSINT Path
