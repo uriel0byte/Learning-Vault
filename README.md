@@ -56,11 +56,12 @@
   - [ ] **Network Traffic Analysis**
     - *Practical:* Packet analysis with Wireshark/Suricata
 - [ ] **CyberWarFareLabs**
+- [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
-- [ ] **Microsoft:** 365 & & SOC Path & SC-*** path
-- [ ] **SOCRadar:** Intelligence and OSINT Path
+- [ ] **Microsoft:** 365 Administration & & SOC Path (SC-900, SC-200) path
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
+  - [ ] **SOCRadar:** Intelligence and OSINT Path
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
