@@ -2,7 +2,7 @@
 
 **The Goal:** Secure a Blue Team / SOC Analyst role. 
 
-**The Edge:** Organizing chaos into actionable intelligence (DFIR, Threat Intel, OSINT).
+**The Edge:** Organizing chaos into actionable intelligence (Threat Intel, OSINT).
 
 ---
 
@@ -12,26 +12,35 @@
 - [ ] **Foundation Credentials**
   - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
   - *Exam Date:* August, 2026
-- [ ] **Applied Threat Hunting & Detection Theory**
- - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **Security Fundamentals Consolidation**
   - *Action:* Complete TCM Practical Security Fundamentals. 
   - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
+- [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
+- [ ] **Applied Threat Hunting & Detection Theory**
+ - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 
 ---
      
-## 🕒 INTERNSHIP BATTLE RHYTHM (Active Schedule)
-*Schedule optimized for 8:30 - 16:30 work hours. Time-boxed to prevent burnout.*
+## 🕒 BATTLE RHYTHM (Active Schedule)
+*Time-boxed to prevent burnout.*
 
 ### 📅 The Weekday Rotation (18:00 - 20:00)
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
-- **Monday & Wednesday: Network+ & Linux**
-  - **Block 1 (45m):** 
-  - **Block 2 (45m):** 
-- **Tuesday & Thursday: ISC2 CC & TCM Security**
-  - **Block 1 (45m):** ISC2 CC Study 
-  - **Block 2 (45m):** TCM Practical Security Fundamentals (Immediate Lab Application)
+- **Monday & Wednesday: The ISC2 CC Practice Grind**
+  - **Block 1 (45m):** Take a full-length, timed ISC2 CC Practice Exam. (Use the free 125-question exams from CertPreps or CertificationPractice.com to simulate the real 120-minute test environment).
+    - CertPreps
+    - CertificationPractice.com
+    - Edusum
+    - CertifyQuiz.com
+    - ThorTeaches Free QOTD
+    - ISC2 Official Knowledge Check
+    - Mobile Apps Freemium
+  - **Block 2 (45m):** Blind Review. Do not just look at the score. Review every single question you got wrong, find the exact concept in your Logseq notes, and write down why the other answers were incorrect.
+- **Tuesday & Thursday: TCM Security & LetsDefense**
+  - **Block 1 (45m):** TCM Practical Security Fundamentals.
+  - **Block 2 (45m):** LetsDefend 7-Day Trial. Jump directly into the "Cybersecurity for Students" or "SOC Analyst" modules.
+    - Do not worry about finishing the whole path; just extract the knowledge you need to get past my alert wall.
 - **Friday: Flex Day**
   - Catch up on leftover notes, organize GitHub, or take a mandated rest day to decompress.
 
@@ -46,7 +55,6 @@
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
-- [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
 - [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
