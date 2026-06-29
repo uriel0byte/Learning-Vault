@@ -37,7 +37,7 @@
     - ISC2 Official Knowledge Check
     - Mobile Apps Freemium
   - **Block 2 (45m):** Blind Review. Do not just look at the score. Review every single question you got wrong, find the exact concept in your Logseq notes, and write down why the other answers were incorrect.
-- **Tuesday & Thursday: TCM Security & LetsDefense**
+- **Tuesday & Thursday: TCM Security & LetsDefend**
   - **Block 1 (45m):** TCM Practical Security Fundamentals.
   - **Block 2 (45m):** LetsDefend 7-Day Trial. Jump directly into the "Cybersecurity for Students" or "SOC Analyst" modules.
     - Do not worry about finishing the whole path; just extract the knowledge you need to get past my alert wall.
@@ -48,7 +48,7 @@
 - **Saturday or Sunday (2-3 Hours):**
   - **SOC Triage**
     - *Practice:* Alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment.
-    - Once comfortable, escalate back to CyberDefenders/TryHackMe/HTB Sherlocks unguided SOC challenges (Post-Splunk mastery).
+    - Once comfortable, escalate back to CyberDefenders/TryHackMe/HTB Sherlocks unguided SOC challenges.
 
 ---
 
