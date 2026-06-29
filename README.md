@@ -56,7 +56,7 @@
 *Do not touch these until the Active Sprint is a habit.*
 
 - [ ] **Windows OS & Active Directory Fundamentals**
-  - HTB / THM Windows Fundamentals modules
+  - HTB / THM Windows Fundamentals and Active Directory modules
   - Next, find rooms to learn to investigate or do forensics on Windows.
 - [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
   - *BTJA:* Include Network Analysis, OSINT, Digigtal Forensics, Dark Web Operations, Threat Hunting, Vulnerability Management.
