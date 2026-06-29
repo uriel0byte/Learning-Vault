@@ -14,8 +14,6 @@
   - *Exam Date:* August, 2026
 - [ ] **Applied Threat Hunting & Detection Theory**
  - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
-- [ ] **Linux CLI Mastery**
-  - *Action:* Complete the "Cisco NetAcad Linux Essentials" course.
 - [ ] **Security Fundamentals Consolidation**
   - *Action:* Complete TCM Practical Security Fundamentals. 
   - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
@@ -30,7 +28,7 @@
 
 - **Monday & Wednesday: Network+ & Linux**
   - **Block 1 (45m):** 
-  - **Block 2 (45m):** Cisco NetAcad Linux Essentials
+  - **Block 2 (45m):** 
 - **Tuesday & Thursday: ISC2 CC & TCM Security**
   - **Block 1 (45m):** ISC2 CC Study 
   - **Block 2 (45m):** TCM Practical Security Fundamentals (Immediate Lab Application)
@@ -59,7 +57,7 @@
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
-- [ ] **Microsoft:** 365 Administration & & SOC Path (SC-900, SC-200) path
+- [ ] **Microsoft:** 365 Administration & SOC Path (SC-900, SC-200) path
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
   - [ ] **SOCRadar:** Intelligence and OSINT Path
 - [ ] **Pass CompTIA Security+**
@@ -119,6 +117,8 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] Cybersecurity for General Professionals — Huawei & AIS Academy
 - [x] **SIEM & Log Analysis Foundation**: Complete Splunk Free Fundamental Training to master log ingestion and querying.
 - [x] Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
+- [x] Microsoft AI Skill Fest 2026 
+- [x] **Linux CLI Mastery** Complete the "Cisco NetAcad Linux Essentials" course.
 
 **Projects & Labs:**
 - [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
