@@ -57,17 +57,21 @@
 
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals modules
+  - Next, find rooms to learn to investigate or do forensics on Windows.
 - [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
   - *BTJA:* Include Network Analysis, OSINT, Digigtal Forensics, Dark Web Operations, Threat Hunting, Vulnerability Management.
   - [ ] **Network Traffic Analysis**
-    - *Practical:* Packet analysis with Wireshark/Suricata
+    - Packet analysis with Wireshark/Suricata
+    - HackTheBox Network Traffic Analysis Room
 - [ ] **CyberWarFareLabs**
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
+- [ ] **HackTheBox:** CDSA Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
 - [ ] **Microsoft:** 365 Administration & SOC Path (SC-900, SC-200) path
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
   - [ ] **SOCRadar:** Intelligence and OSINT Path
+  - [ ] **OSINT Challenge:** Free challenges provided by other OSINT Analyst or HackTheBox Challenges
 - [ ] **Pass CompTIA Security+**
   - *Resources:* Reviewing Professor Messer SY0-701 notes
   - *Practice:* Skillcert & MyFreeAcademy practice exams
