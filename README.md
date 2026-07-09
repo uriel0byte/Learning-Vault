@@ -12,9 +12,6 @@
 - [ ] **Foundation Credentials**
   - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
   - *Exam Date:* August, 2026
-- [ ] **Security Fundamentals Consolidation**
-  - *Action:* Complete TCM Practical Security Fundamentals. 
-  - *Rule: No passive watching. Take physical notes and immediately apply concepts.*
 - [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 - [ ] **Applied Threat Hunting & Detection Theory**
  - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
@@ -37,8 +34,8 @@
     - ISC2 Official Knowledge Check
     - Mobile Apps Freemium
   - **Block 2 (45m):** Blind Review. Do not just look at the score. Review every single question you got wrong, find the exact concept in your Logseq notes, and write down why the other answers were incorrect.
-- **Tuesday & Thursday: TCM Security & LetsDefend**
-  - **Block 1 (45m):** TCM Practical Security Fundamentals.
+- **Tuesday & Thursday: LetsDefend**
+  - **Block 1 (45m):** 
   - **Block 2 (45m):** LetsDefend 7-Day Trial. Jump directly into the "Cybersecurity for Students" or "SOC Analyst" modules.
     - Do not worry about finishing the whole path; just extract the knowledge you need to get past my alert wall.
 - **Friday: Flex Day**
@@ -131,6 +128,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
 - [x] Microsoft AI Skill Fest 2026 
 - [x] **Linux CLI Mastery** Complete the "Cisco NetAcad Linux Essentials" course.
+- [x] **Security Fundamentals Consolidation** TCM Practical Security Fundamentals.
 
 **Projects & Labs:**
 - [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
