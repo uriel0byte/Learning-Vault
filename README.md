@@ -9,10 +9,6 @@
 ## 🟢 ACTIVE SPRINT (Do this today)
 *Certifications are on hold for budget. Focus is 100% on free, practical proof of skill.*
 
-- [ ] **Foundation Credentials**
-  - *Action:* Execute the free ISC2 Certified in Cybersecurity (CC) self-paced training.
-  - *Exam Date:* August, 2026
-- [ ] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 - [ ] **Applied Threat Hunting & Detection Theory**
  - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 
@@ -24,16 +20,9 @@
 ### 📅 The Weekday Rotation (18:00 - 20:00)
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
-- **Monday & Wednesday: The ISC2 CC Practice Grind**
-  - **Block 1 (45m):** Take a full-length, timed ISC2 CC Practice Exam. (Use the free 125-question exams from CertPreps or CertificationPractice.com to simulate the real 120-minute test environment).
-    - CertPreps
-    - CertificationPractice.com
-    - Edusum
-    - CertifyQuiz.com
-    - ThorTeaches Free QOTD
-    - ISC2 Official Knowledge Check
-    - Mobile Apps Freemium
-  - **Block 2 (45m):** Blind Review. Do not just look at the score. Review every single question you got wrong, find the exact concept in your Logseq notes, and write down why the other answers were incorrect.
+- **Monday & Wednesday:
+  - **Block 1 (45m):** 
+  - **Block 2 (45m):** 
 - **Tuesday & Thursday: LetsDefend**
   - **Block 1 (45m):** 
   - **Block 2 (45m):** LetsDefend 7-Day Trial. Jump directly into the "Cybersecurity for Students" or "SOC Analyst" modules.
@@ -129,6 +118,9 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] Microsoft AI Skill Fest 2026 
 - [x] **Linux CLI Mastery** Complete the "Cisco NetAcad Linux Essentials" course.
 - [x] **Security Fundamentals Consolidation** TCM Practical Security Fundamentals.
+- [x] ISC2 Certified in Cybersecurity (CC) Certification
+- [x] SC-900 
+- [x] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 
 **Projects & Labs:**
 - [x] Basic Git & Version Control Mastery (Learn Git Branching Basics)
