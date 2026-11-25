@@ -73,7 +73,7 @@ If university work gets heavy, cut the CyberWarFare block first. Protect the pro
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
 - [ ] **HackTheBox:** CDSA Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
-- [ ] **Microsoft:** SC-200 and SC-300
+- [ ] **Microsoft:** SC-300
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
   - [ ] **SOCRadar:** Intelligence and OSINT Path
   - [ ] **OSINT Challenge:** Free challenges provided by other OSINT Analyst or HackTheBox Challenges
