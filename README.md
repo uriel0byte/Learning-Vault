@@ -1,39 +1,57 @@
 # 🛡️ Mission Control: My Cyber Learning Journey
 
-**The Goal:** Secure a Blue Team / SOC Analyst role. 
+**The Goal:** Secure a Blue Team / SOC Analyst role, or a junior IAM analyst role. 
 
 **The Edge:** Organizing chaos into actionable intelligence (Threat Intel, OSINT).
 
+**The Deadline:** Graduating March 2027. Applications go out from January.
+
 ---
 
-## 🟢 ACTIVE SPRINT (Do this today)
-*Certifications are on hold for budget. Focus is 100% on free, practical proof of skill.*
+## 🟢 ACTIVE SPRINT (Nov 24, 2026 to Mar 2027)
+*One finished project, one free certificate, two exams already paid for, and applications out by January. Proof of capability comes before proof of completion.*
 
-- [ ] **Applied Threat Hunting & Detection Theory**
- - *Action:* Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
+- [ ] **Entra ID + Sentinel identity security lab** (new repo, written up in my standard report format)
+  - Phase 1: Tenant, users, groups, and roles
+  - Phase 2: MFA and conditional access
+  - Phase 3: Sign-in logs into Sentinel
+  - Phase 4: Three KQL detections mapped to MITRE ATT&CK
+  - *Before starting:* check what the current trials include for conditional access and Sentinel.
+- [ ] **Centri BTJA pathway** (free, about 30 hours)
+- [ ] **CyberWarFare Labs:** BTF and CCDA exams (fixed block, weeks 7 to 10)
+- [ ] **Applications:** SOC L1 and junior IAM roles, one batch per week from January
+
+### Checkpoints
+- **Dec 1:** GCP billing checked, both READMEs updated, lab repo created
+- **Jan 5:** Lab phases 1 to 4 built, first write-up draft done
+- **Jan 15:** Lab report finished and linked from GitHub profile and LinkedIn. Applications start.
+- **Jan 31:** BTJA done
+- **Feb 28:** Both CyberWarFare exams done
 
 ---
      
 ## 🕒 BATTLE RHYTHM (Active Schedule)
-*Time-boxed to prevent burnout.*
+*Time-boxed to prevent burnout. When the timer ends, I stop.*
 
 ### 📅 The Weekday Rotation (18:00 - 20:00)
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
-- **Monday & Wednesday:
-  - **Block 1 (45m):** 
-  - **Block 2 (45m):** 
-- **Tuesday & Thursday: LetsDefend**
-  - **Block 1 (45m):** 
-  - **Block 2 (45m):** LetsDefend 7-Day Trial. Jump directly into the "Cybersecurity for Students" or "SOC Analyst" modules.
-    - Do not worry about finishing the whole path; just extract the knowledge you need to get past my alert wall.
-- **Friday: Flex Day**
-  - Catch up on leftover notes, organize GitHub, or take a mandated rest day to decompress.
+- **Monday & Wednesday: Project**
+  - **Block 1 (45m):** Build the lab.
+  - **Block 2 (45m):** Write up what I built in that session, same day.
+- **Tuesday & Thursday: Training**
+  - **Block 1 (45m):** BTJA module.
+  - **Block 2 (45m):** BTJA until it is done, then CyberWarFare exam prep.
+- **Friday: Applications / Flex Day**
+  - From January: send applications.
+  - Before that: organize GitHub or take a mandated rest day.
+
+If university work gets heavy, cut the CyberWarFare block first. Protect the project.
 
 ### 🎯 The Weekend Game Day
 - **Saturday or Sunday (2-3 Hours):**
   - **SOC Triage**
-    - *Practice:* Alerts on LetsDefend.io to build muscle memory in a simulated corporate SIEM/EDR environment.
+    - *Practice:* One or two alerts on LetsDefend.io, each with a full report pushed to GitHub the same weekend.
     - Once comfortable, escalate back to CyberDefenders/TryHackMe/HTB Sherlocks unguided SOC challenges.
 
 ---
@@ -41,20 +59,21 @@
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
+- [ ] **Applied Threat Hunting & Detection Theory**
+  - Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals and Active Directory modules
   - Next, find rooms to learn to investigate or do forensics on Windows.
-- [ ] **Security Blue Team (Centri):** BTJA Path and BTL1
-  - *BTJA:* Include Network Analysis, OSINT, Digigtal Forensics, Dark Web Operations, Threat Hunting, Vulnerability Management.
-  - [ ] **Network Traffic Analysis**
-    - Packet analysis with Wireshark/Suricata
-    - HackTheBox Network Traffic Analysis Room
-- [ ] **CyberWarFareLabs**
+- [ ] **Network Traffic Analysis**
+  - Packet analysis with Wireshark/Suricata
+  - HackTheBox Network Traffic Analysis Room
+- [ ] **CyberWarFare:** Cloud Security Fundamentals (CSF)
+- [ ] **Centri (formerly Security Blue Team):** BTL1
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
 - [ ] **HackTheBox:** CDSA Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
-- [ ] **Microsoft:** 365 Administration & SOC Path (SC-900, SC-200) path
+- [ ] **Microsoft:** SC-200 and SC-300
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
   - [ ] **SOCRadar:** Intelligence and OSINT Path
   - [ ] **OSINT Challenge:** Free challenges provided by other OSINT Analyst or HackTheBox Challenges
@@ -79,7 +98,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
    - Computer Architecture fundamentals
 2. **Phase 2: Operating Systems Deep Dive**
    - Windows Server administration, Active Directory
-3. **Phase 3: Security Operations (The Core Goal)**
+3. **Phase 3: Security Operations (The Core Goal) (Current)**
    - Log Analysis
    - SIEM, SOAR Operation
    - Network Traffic Analysis
@@ -96,7 +115,7 @@ This is the overarching linear plan. I will move items from here into the Backlo
 
 - **Labs:** [LabEx](https://labex.io/users/uriel0byte-11746032) | [PicoCTF](https://play.picoctf.org/users/urielbyte) | [CyberDefenders](https://cyberdefenders.org/p/poseidon.smash) | [SecurityBlueTeamLab](https://blueteamlabs.online/home/user/82d77b7cbeca1bbfed8b49) | [LetsDefend](https://app.letsdefend.io/user/urielbyte) | [Hack The Box](https://app.hackthebox.com/profile/#2566537) | [TryHackMe](https://tryhackme.com/p/poseidon.smash) 
 - **Roadmaps:** [Roadmap.sh Profile](https://roadmap.sh/u/urielbyte) | [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity/tree/main)
-- **AI Tools:** NotebookLM (Summaries and Quizes) | Gemini & Claude (CTF and Reports help) | Perplexity (Review)
+- **AI Tools:** NotebookLM (Summaries and Quizzes) | Gemini & Claude (CTF and Reports help) | Perplexity (Review)
 - **Knowledge Bases:** [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge?tab=readme-ov-file#manualshowtostutorials-toc)
 - **Notes & Consolidation:** LogSeq (My internal notes) | TCM Security Academy (Free courses like Fundamental Security, Help desk etc.)
 
@@ -112,14 +131,15 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] LinuxFoundationX LFS101x on edX
 - [x] Linux Journey Website
 - [x] HTB & THM Modules: Linux Fundamentals, Intro to Networking, Network Fundamentals, Computer Fundamentals, How The Web Works etc.
-- [x] Cybersecurity for General Professionals — Huawei & AIS Academy
+- [x] Cybersecurity for General Professionals (Huawei & AIS Academy)
 - [x] **SIEM & Log Analysis Foundation**: Complete Splunk Free Fundamental Training to master log ingestion and querying.
 - [x] Network+ High-Speed Active Recall (Physical A5 Notes + Wireshark Packet Capture)
 - [x] Microsoft AI Skill Fest 2026 
 - [x] **Linux CLI Mastery** Complete the "Cisco NetAcad Linux Essentials" course.
 - [x] **Security Fundamentals Consolidation** TCM Practical Security Fundamentals.
 - [x] ISC2 Certified in Cybersecurity (CC) Certification
-- [x] SC-900 
+- [x] Microsoft SC-900: Security, Compliance, and Identity Fundamentals (earned Nov 13, 2026)
+- [x] Ghost Track (BreachLab)
 - [x] **LetsDefend:** Cybersecurity for Students & SOC Analyst Learning Path
 
 **Projects & Labs:**
@@ -133,3 +153,4 @@ This is the overarching linear plan. I will move items from here into the Backlo
 - [x] Home Wifi Security Audit and Hardening Project + Report
 - [x] Windows 11 Filesystem & Boot Configuration Recovery + Report
 - [x] GCP Zero Trust Network Access (ZTNA) Deployment + Full Report
+- [x] LetsDefend SOC Alert Investigations: 11 reports in Cybersecurity-Writeups
