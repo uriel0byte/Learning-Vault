@@ -1,6 +1,6 @@
 # 🛡️ Mission Control: My Cyber Learning Journey
 
-**The Goal:** Secure a Blue Team / SOC Analyst role, or a junior IAM analyst role. 
+**The Goal:** SOC L1, junior IAM, and IT support / service desk roles.
 
 **The Edge:** Organizing chaos into actionable intelligence (Threat Intel, OSINT).
 
@@ -38,7 +38,7 @@
 ### 📅 The Weekday Rotation (18:00 - 20:00)
 *Execution: Two 45-minute blocks with a 15-minute break.*
 
-- **Monday & Wednesday: Project**
+- **Monday & Wednesday: Project Entra ID + Sentinel identity security lab**
   - **Block 1 (45m):** Build the lab.
   - **Block 2 (45m):** Write up what I built in that session, same day.
 - **Tuesday & Thursday: Training**
@@ -52,17 +52,16 @@ If university work gets heavy, cut the CyberWarFare block first. Protect the pro
 
 ### 🎯 The Weekend Game Day
 - **Saturday or Sunday (2-3 Hours):**
-  - **SOC Triage**
-    - *Practice:* One or two alerts on LetsDefend.io, each with a full report pushed to GitHub the same weekend.
-    - Once comfortable, escalate back to CyberDefenders/TryHackMe/HTB Sherlocks unguided SOC challenges.
+  - **Entra ID + Sentinel identity security lab**
+    - The AD lab after this lab finish.
+    - picoCTF 1-2 lab.
+    - Note: LetsDefend is paused after 11 reports.
 
 ---
 
 ## 🟡 THE BACKLOG (Do this next)
 *Do not touch these until the Active Sprint is a habit.*
 
-- [ ] **Applied Threat Hunting & Detection Theory**
-  - Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals and Active Directory modules
   - Next, find rooms to learn to investigate or do forensics on Windows.
@@ -71,15 +70,17 @@ If university work gets heavy, cut the CyberWarFare block first. Protect the pro
   - Packet analysis with Wireshark/Suricata
   - HackTheBox Network Traffic Analysis Room
   - Suricata and Zeek, then RITA. Starts in March.
+- [ ] LimaCharlie/CrowdStrike Falcon EDR lab
 - [ ] Wazuh Lab
-- [ ] LimaCharlie EDR lab
 - [ ] **CyberWarFare:** Cloud Security Fundamentals (CSF)
-- [ ] **Centri (formerly Security Blue Team):** BTL1
+- [ ] **Applied Threat Hunting & Detection Theory**
+  - Master the Big 5 Windows Event IDs and Cyber Kill Chain, then apply the SOC Master Index to a live Boss of the SOC (BOTS) investigation on CyberDefenders.
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
+- [ ] **Microsoft:** SC-300
+- [ ] **Centri (formerly Security Blue Team):** BTL1
 - [ ] **TryHackMe:** SAL1 Path & SAL1 Certificate
 - [ ] **HackTheBox:** CDSA Certificate
 - [ ] **CyberDefenders:** CCDL1 Certificate
-- [ ] **Microsoft:** SC-300
 - [ ] **OSINT & Threat Intelligence:** Find courses to start leaning into this field
   - [ ] **SOCRadar:** Intelligence and OSINT Path
   - [ ] **OSINT Challenge:** Free challenges provided by other OSINT Analyst or HackTheBox Challenges
