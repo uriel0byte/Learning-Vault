@@ -70,6 +70,7 @@ If university work gets heavy, cut the CyberWarFare block first. Protect the pro
   - HackTheBox Network Traffic Analysis Room
   - Suricata and Zeek, then RITA. Starts in March.
 - [ ] Wazuh Lab
+- [ ] LimaCharlie EDR lab
 - [ ] **CyberWarFare:** Cloud Security Fundamentals (CSF)
 - [ ] **Centri (formerly Security Blue Team):** BTL1
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
