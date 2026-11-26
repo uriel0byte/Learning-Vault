@@ -64,9 +64,12 @@ If university work gets heavy, cut the CyberWarFare block first. Protect the pro
 - [ ] **Windows OS & Active Directory Fundamentals**
   - HTB / THM Windows Fundamentals and Active Directory modules
   - Next, find rooms to learn to investigate or do forensics on Windows.
+  - A small Windows Active Directory lab: users, groups, group policy, password policy, and Event IDs 4624, 4625 and 4720. Serves both IAM and SOC.
 - [ ] **Network Traffic Analysis**
   - Packet analysis with Wireshark/Suricata
   - HackTheBox Network Traffic Analysis Room
+  - Suricata and Zeek, then RITA. Starts in March.
+- [ ] Wazuh Lab
 - [ ] **CyberWarFare:** Cloud Security Fundamentals (CSF)
 - [ ] **Centri (formerly Security Blue Team):** BTL1
 - [ ] **MITRE ATT&CK Framework:** AttackIQ Academy & TryHackMe
