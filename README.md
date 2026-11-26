@@ -22,7 +22,9 @@
 - [ ] **Applications:** SOC L1 and junior IAM roles, one batch per week from January
 
 ### Checkpoints
-- **Dec 1:** GCP billing checked, both READMEs updated, lab repo created
+
+- **Dec 1 to 7:** GCP billing checked, both READMEs updated, lab repo created(Phase 1 on the free tier.)
+- **Dec 8:** Start both trials. For those 4 weeks, work 6 to 7 hours a week by adding one weekend session in place of LetsDefend.
 - **Jan 5:** Lab phases 1 to 4 built, first write-up draft done
 - **Jan 15:** Lab report finished and linked from GitHub profile and LinkedIn. Applications start.
 - **Jan 31:** BTJA done
